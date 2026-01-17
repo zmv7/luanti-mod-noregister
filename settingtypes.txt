@@ -1,2 +1,2 @@
 noregister (Block new players registration) bool false
-noregister_msg (Message to display for new players then noregister is on) string Sorry, new player registration is currently disabled.
+noregister_msg (Message to display for new players then noregister is on) string Sorry, new players registration is currently disabled.
